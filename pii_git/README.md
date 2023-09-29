@@ -1,6 +1,6 @@
 PII: Projeto Integrador Interdisciplinar
 
-Trabalhho do primeiro semestre do curso Ciencia da Computação do IMT 
+Trabalho do primeiro semestre do curso de Ciencia da Computação do IMT 
 Desenvolvido por:
 - Ana Carolina Joaquim Januário RA: 23.95014-5
 - João Pedro de Souza Cruz RA: 23.00057-0
